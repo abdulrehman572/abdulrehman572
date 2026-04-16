@@ -4,10 +4,7 @@
 
 *Engineering scalable systems and intelligent solutions.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Real-time+AI+%26+Computer+Vision;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Mobile+%26+Web+App+Development;Problem+Solver+%7C+Systems+Thinker)](https://git.io/typing-svg)
-
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Real-time+AI+%26+Computer+Vision;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Mobile+%26+Web+App+Development;Problem+Solver+%7C+Hardworking)](https://git.io/typing-svg)
 ---
 
 ## 🎯 Professional Focus
