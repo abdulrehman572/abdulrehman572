@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Abdul Rehman
+# Abdul Rehman
 
-### Systems Architect • AI Surveillance Engineer • Full-Stack Developer
+*Computer Science Graduate — Assembly, C++ (OOP/DSA), Python, TypeScript, and full-cycle mobile, software, and web development.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Enterprise+System+Architecture;AI+Surveillance+%26+Computer+Vision;Real-time+Video+Processing;NestJS+%7C+Python+%7C+Kotlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Building+Scalable+Backend+Systems;Real-time+AI+%26+Computer+Vision;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Mobile+%26+Web+App+Development;Problem+Solver+%7C+Hardworking)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,51 +12,52 @@
 
 ## 🚀 What I Build
 
-**High-performance systems** that deliver in production:
+High-performance systems designed to solve real-world problems and operate reliably in production environments.
 
+### Core Stack
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🏗️ Flagship Projects
 
-### 🏫 **School Management ERP**
-Enterprise platform for complete institutional operations
+### 🏫 School Management ERP
+A comprehensive enterprise platform that streamlines every facet of institutional operations.
 
-**Key Features:**
-- 🔐 Advanced RBAC (5 roles, dynamic permissions)
-- 💰 Flexible fees with partial payments + auto-alerts
-- 📝 JSON-driven dynamic admissions
-- 📊 Automated GPA + printable reports
-- ⚙️ Built-in dev tools & maintenance mode
+- **RBAC:** Dynamic permissions across 5 distinct user roles.
+- **Finance:** Flexible fee management supporting partial payments and automated overdue alerts.
+- **Admissions:** JSON-driven dynamic forms with file upload and approval workflows.
+- **Academics:** Automated GPA calculation, weighted exams, and printable report cards.
+- **Operations:** Built-in developer utilities, query runner, and system maintenance mode.
 
-### 🔒 **AI Surveillance Command Center**
-Real-time multi-camera intelligence platform
+### 🔒 AI Surveillance Command Center
+Real-time, multi-camera monitoring with intelligent detection and remote command capabilities.
 
-**Key Features:**
-- 🎥 6+ concurrent streams (RTSP/ONVIF/USB)
-- 🤖 YOLOv8 tracking + custom persistence
-- 🛡️ Tamper detection (blur/occlusion/displacement)
-- 📱 WhatsApp/SMS remote control (Twilio)
-- 🎯 Polygon ROI filtering + smart alerts
+- **Ingestion:** Concurrent processing of 6+ streams (RTSP, ONVIF, USB).
+- **Detection:** YOLOv8 object tracking with custom IoU-based persistence logic.
+- **Security:** Tamper detection for occlusion, blur, and physical camera displacement.
+- **Control:** Two-way remote management via WhatsApp and SMS commands (Twilio integration).
+- **Filtering:** Per-camera polygon ROI with smart alert cooldown and escalation.
 
 ---
 
-## 📱 Other Applications
+## 📱 Additional Applications
 
 | Project | Description |
-|---------|-------------|
-| **Personal Diary** | Secure journaling with rich authentication |
-| **Little Logic Heroes** | Early learning educational platform |
-| **Nuclear Fact Fusion** | Interactive science quiz app |
-| **Web Dev Lab** | Full-stack experimentation hub |
+| :--- | :--- |
+| **Personal Diary** | Secure journaling application with authentication and rich note management. |
+| **Little Logic Heroes** | Educational platform designed for early childhood cognitive development. |
+| **Nuclear Fact Fusion** | Interactive quiz app that makes learning about nuclear science engaging. |
+| **Web Development Lab** | A full-stack experimentation repository and learning playground. |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdulrehman572&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2F9B5E&icon_color=2F9B5E"/>
@@ -65,22 +66,24 @@ Real-time multi-camera intelligence platform
 
 ---
 
-## 🤝 Let's Collaborate
+## 📬 Connect & Collaborate
+
+I'm available for freelance engineering, system architecture consultations, and technical collaboration.
 
 <div align="center">
-<a href="mailto:abdulrehmanprog@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30">
-</a>
-<a href="https://wa.me/923106770401">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
-</a>
-<a href="https://github.com/abdulrehman572">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
-</a>
+
+| Channel | Contact |
+| :--- | :--- |
+| **Email** | [abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com) |
+| **Fiverr** | [abbdulrehmaan83@gmail.com](mailto:abbdulrehmaan83@gmail.com) |
+| **WhatsApp** | [+92 310 6770401](https://wa.me/923106770401) |
+| **GitHub** | [abdulrehman572](https://github.com/abdulrehman572) |
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulrehman572&color=2F9B5E" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman572&color=2F9B5E&style=flat-square" alt="Profile Views" />
   <br><br>
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
