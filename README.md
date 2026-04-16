@@ -1,70 +1,62 @@
 <div align="center">
 
-# Abdul Rehman
+# 👋 Abdul Rehman
 
-*Engineering scalable systems and intelligent solutions.*
+### Systems Architect • AI Surveillance Engineer • Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Real-time+AI+%26+Computer+Vision;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Mobile+%26+Web+App+Development;Problem+Solver+%7C+Hardworking)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Enterprise+System+Architecture;AI+Surveillance+%26+Computer+Vision;Real-time+Video+Processing;NestJS+%7C+Python+%7C+Kotlin)](https://git.io/typing-svg)
 
-## 🎯 Professional Focus
-
-I design and implement systems where reliability and performance are critical:
-
-- Architecting enterprise backend infrastructure
-- Developing AI-driven surveillance and automation pipelines
-- Building real-time video processing and alerting systems
-- Delivering full-stack mobile and web applications
+</div>
 
 ---
 
-## 🛠️ Core Technologies
+## 🚀 What I Build
 
-| Domain | Stack |
-| :--- | :--- |
-| **Backend & Data** | `NestJS` `TypeORM` `PostgreSQL` `JWT` `Python` |
-| **AI & Vision** | `YOLOv8` `OpenCV` `ONVIF` `CUDA` |
-| **Frontend & Mobile** | `React` `TypeScript` `Material UI` `Kotlin` `Java` |
-| **Integration** | `Twilio` `REST APIs` `RTSP` |
+**High-performance systems** that deliver in production:
 
----
-
-## 🏗️ Major Systems
-
-### School Management Ecosystem
-A comprehensive ERP platform handling the complete lifecycle of institutional operations.
-
-**Capabilities:**
-- Advanced RBAC with dynamic permissions (5 distinct user roles)
-- Flexible fee management with partial payments and automated alerts
-- Dynamic admission forms driven by JSON schemas
-- Automated GPA calculation and printable report cards
-- Built-in developer utilities and system maintenance tools
-
-### AI Surveillance Command Center
-Real-time multi-camera monitoring with intelligent detection and remote management.
-
-**Capabilities:**
-- Concurrent processing of 6+ camera streams (RTSP/ONVIF/USB)
-- YOLOv8 object tracking with custom IoU-based persistence
-- Tamper detection covering occlusion, blur, and physical displacement
-- Two-way remote control via WhatsApp and SMS commands
-- Per-camera polygon ROI filtering and smart alert cooldowns
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-## 📱 Additional Applications
+## 🏗️ Flagship Projects
+
+### 🏫 **School Management ERP**
+Enterprise platform for complete institutional operations
+
+**Key Features:**
+- 🔐 Advanced RBAC (5 roles, dynamic permissions)
+- 💰 Flexible fees with partial payments + auto-alerts
+- 📝 JSON-driven dynamic admissions
+- 📊 Automated GPA + printable reports
+- ⚙️ Built-in dev tools & maintenance mode
+
+### 🔒 **AI Surveillance Command Center**
+Real-time multi-camera intelligence platform
+
+**Key Features:**
+- 🎥 6+ concurrent streams (RTSP/ONVIF/USB)
+- 🤖 YOLOv8 tracking + custom persistence
+- 🛡️ Tamper detection (blur/occlusion/displacement)
+- 📱 WhatsApp/SMS remote control (Twilio)
+- 🎯 Polygon ROI filtering + smart alerts
+
+---
+
+## 📱 Other Applications
 
 | Project | Description |
-| :--- | :--- |
-| **Personal Diary** | Secure journaling app with authentication and rich note management |
-| **Little Logic Heroes** | Educational platform for early childhood learning |
-| **Nuclear Fact Fusion** | Interactive quiz application for science education |
-| **Web Development Lab** | Full-stack experimentation and learning repository |
+|---------|-------------|
+| **Personal Diary** | Secure journaling with rich authentication |
+| **Little Logic Heroes** | Early learning educational platform |
+| **Nuclear Fact Fusion** | Interactive science quiz app |
+| **Web Dev Lab** | Full-stack experimentation hub |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdulrehman572&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2F9B5E&icon_color=2F9B5E"/>
@@ -73,28 +65,22 @@ Real-time multi-camera monitoring with intelligent detection and remote manageme
 
 ---
 
-## 📬 Contact & Collaboration
-
-I am available for freelance engineering work and technical collaboration.
+## 🤝 Let's Collaborate
 
 <div align="center">
-
-| Channel | Contact |
-| :--- | :--- |
-| **Email** | [abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com) |
-| **Fiverr** | [abbdulrehmaan83@gmail.com](mailto:abbdulrehmaan83@gmail.com) |
-| **WhatsApp** | [+92 310 6770401](https://wa.me/923106770401) |
-| **GitHub** | [abdulrehman572](https://github.com/abdulrehman572) |
-
+<a href="mailto:abdulrehmanprog@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+</a>
+<a href="https://wa.me/923106770401">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
+</a>
+<a href="https://github.com/abdulrehman572">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
+</a>
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=abdulrehman572&label=Profile%20Views&color=2F9B5E&style=flat" />
-</div>
-
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman572&color=2F9B5E" />
+  <br><br>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
