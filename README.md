@@ -1,240 +1,94 @@
+it should just count the visits that are not done by me and my ip adress 
+it should just show the count to me that are by others
+
+now edit me whole reame
+
 <div align="center">
 
 # Abdul Rehman
 
-### Real‑Time AI Systems Engineer
+*Computer Science Graduate — Assembly, C++ (OOP/DSA), Python, TypeScript, and full-cycle mobile, software, and web development.*
 
-*Building high‑performance computer vision pipelines and scalable backend architectures that operate reliably in production.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Real‑time+AI+Video+Processing;Multi‑stream+Detection+Pipelines+(YOLOv8);Scalable+Backend+Architectures;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Problem+→+Architecture+→+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Building+Scalable+Backend+Systems;Real-time+AI+%26+Computer+Vision;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Mobile+%26+Web+App+Development;Problem+Solver+%7C+Hardworking)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Engineering Impact
+## 🚀 What I Build
 
-I deliver systems where performance and reliability are non‑negotiable. My work is measured in frames per second, concurrent streams, and lines of production code—not buzzwords.
+High-performance systems designed to solve real-world problems and operate reliably in production environments.
 
-| Metric | Evidence |
-| :--- | :--- |
-| **18,000+ lines of Python** | Core logic for the AI Surveillance Command Center |
-| **6+ concurrent video streams** | Real‑time processing with < 50ms latency per frame |
-| **Granular RBAC for 5 roles** | Enterprise ERP serving complete institutional workflows |
-| **Full‑cycle development** | From database schema design to camera firmware integration |
-
----
-
-## 🧠 Technical Depth
-
-**Architecture Patterns:** Modular Monoliths · Event‑Driven Pipelines · REST & WebSocket Communication  
-**Performance Focus:** GPU Acceleration (CUDA) · Async I/O · Frame Queue Backpressure · Redis Caching  
-**Computer Vision:** YOLOv8 (nano to xlarge) · Custom IoU Tracking · Statistical Tamper Detection  
-**Backend Engineering:** NestJS · TypeORM · PostgreSQL · JWT with Refresh Rotation
+### Core Stack
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🏗️ Flagship Systems
+## 🏗️ Flagship Projects
+
+### 🏫 School Management ERP
+A comprehensive enterprise platform that streamlines every facet of institutional operations.
+
+- **RBAC:** Dynamic permissions across 5 distinct user roles.
+- **Finance:** Flexible fee management supporting partial payments and automated overdue alerts.
+- **Admissions:** JSON-driven dynamic forms with file upload and approval workflows.
+- **Academics:** Automated GPA calculation, weighted exams, and printable report cards.
+- **Operations:** Built-in developer utilities, query runner, and system maintenance mode.
 
 ### 🔒 AI Surveillance Command Center
-**Problem:** Traditional CCTV records footage; it doesn't *understand* threats in real time.  
-**Solution:** A multi‑feed AI system that detects, tracks, and alerts on human presence and camera tampering—with remote command capabilities.
+Real-time, multi-camera monitoring with intelligent detection and remote command capabilities.
 
-**Impact & Metrics:**
-- **18,000+ lines of Python** driving the detection and alerting engine.
-- Processes **6+ simultaneous streams** (RTSP/ONVIF/USB) with hardware acceleration.
-- **Reduced false positives** via custom IoU‑based persistence and confidence hysteresis.
-- **Tamper Detection:** Identifies occlusion, blur, and physical displacement using statistical anomaly detection (z‑score analysis).
-
-**Architecture Highlights:**
-- Thread‑pooled camera ingestion with adaptive frame skipping.
-- Twilio integration for two‑way WhatsApp/SMS commands (remote alarm control).
-- Polygon‑based ROI filtering per camera with smart alert cooldown.
-
----
-
-### 🏫 School Management Ecosystem
-**Problem:** Disconnected tools for admissions, finance, and academics create operational chaos.  
-**Solution:** A unified ERP platform that centralizes institutional workflows with granular access control.
-
-**Impact & Metrics:**
-- Serves **5 distinct user roles** with dynamic, permission‑based UI rendering.
-- **Automated fee tracking** with partial payment support and overdue escalation.
-- **JSON‑driven admission forms** eliminate hard‑coded fields and reduce development overhead.
-- **Automated GPA calculation** and printable report cards streamline academic reporting.
-
-**Architecture Highlights:**
-- Modular monolith built with NestJS, TypeORM, and PostgreSQL.
-- JWT authentication with refresh token rotation and permission guards.
-- Built‑in developer utilities: raw query runner, cache clearing, and maintenance mode.
+- **Ingestion:** Concurrent processing of 6+ streams (RTSP, ONVIF, USB).
+- **Detection:** YOLOv8 object tracking with custom IoU-based persistence logic.
+- **Security:** Tamper detection for occlusion, blur, and physical camera displacement.
+- **Control:** Two-way remote management via WhatsApp and SMS commands (Twilio integration).
+- **Filtering:** Per-camera polygon ROI with smart alert cooldown and escalation.
 
 ---
 
 ## 📱 Additional Applications
 
-| Project | Technical Summary |
+| Project | Description |
 | :--- | :--- |
-| **Personal Diary** | Encrypted journaling system with structured note storage and authentication. |
-| **Little Logic Heroes** | Educational platform leveraging TypeScript for early childhood cognitive development. |
-| **Nuclear Fact Fusion** | Interactive quiz application built with Kotlin and science‑driven content logic. |
-| **Web Development Lab** | Full‑stack experimentation repository covering modern React, Node, and API design. |
+| **Personal Diary** | Secure journaling application with authentication and rich note management. |
+| **Little Logic Heroes** | Educational platform designed for early childhood cognitive development. |
+| **Nuclear Fact Fusion** | Interactive quiz app that makes learning about nuclear science engaging. |
+| **Web Development Lab** | A full-stack experimentation repository and learning playground. |
 
 ---
 
-## ⚙️ Engineering Focus
-
-- Distributed & real‑time system design
-- Computer vision pipeline optimization
-- Backend performance tuning & database indexing
-- Secure API development & RBAC implementation
-
----
-
-## 🤝 Collaboration & Availability
-
-I partner with teams and businesses that require **serious engineering**—not just code.
-
-**Available for:**
-- Backend system architecture (APIs, databases, scaling)
-- AI‑based detection and surveillance integrations
-- Automation workflows (Twilio, WhatsApp, third‑party APIs)
-- Full‑stack web and mobile application development
-
-<div align="center">
-
-| Channel | Contact |
-| :--- | :--- |
-| **Email** | [abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com) |
-| **Fiverr** | [abbdulrehmaan83@gmail.com](mailto:abbdulrehmaan83@gmail.com) |
-| **WhatsApp** | [+92 310 6770401](https://wa.me/923106770401) |
-| **GitHub** | [abdulrehman572](https://github.com/abdulrehman572) |
-
-</div>
-
----
-<div align="center">
-
-# Abdul Rehman
-
-### Real‑Time AI Systems Engineer
-
-*Building high‑performance computer vision pipelines and scalable backend architectures that operate reliably in production.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9B5E&center=true&vCenter=true&width=520&lines=Real‑time+AI+Video+Processing;Multi‑stream+Detection+Pipelines+(YOLOv8);Scalable+Backend+Architectures;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Kotlin;Problem+→+Architecture+→+Impact)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🚀 Engineering Impact
-
-I deliver systems where performance and reliability are non‑negotiable. My work is measured in frames per second, concurrent streams, and lines of production code—not buzzwords.
-
-| Metric | Evidence |
-| :--- | :--- |
-| **18,000+ lines of Python** | Core logic for the AI Surveillance Command Center |
-| **6+ concurrent video streams** | Real‑time processing with < 50ms latency per frame |
-| **Granular RBAC for 5 roles** | Enterprise ERP serving complete institutional workflows |
-| **Full‑cycle development** | From database schema design to camera firmware integration |
-
----
-
-## 🧠 Technical Depth
-
-**Architecture Patterns:** Modular Monoliths · Event‑Driven Pipelines · REST & WebSocket Communication  
-**Performance Focus:** GPU Acceleration (CUDA) · Async I/O · Frame Queue Backpressure · Redis Caching  
-**Computer Vision:** YOLOv8 (nano to xlarge) · Custom IoU Tracking · Statistical Tamper Detection  
-**Backend Engineering:** NestJS · TypeORM · PostgreSQL · JWT with Refresh Rotation
-
----
-
-## 🏗️ Flagship Systems
-
-### 🔒 AI Surveillance Command Center
-**Problem:** Traditional CCTV records footage; it doesn't *understand* threats in real time.  
-**Solution:** A multi‑feed AI system that detects, tracks, and alerts on human presence and camera tampering—with remote command capabilities.
-
-**Impact & Metrics:**
-- **18,000+ lines of Python** driving the detection and alerting engine.
-- Processes **6+ simultaneous streams** (RTSP/ONVIF/USB) with hardware acceleration.
-- **Reduced false positives** via custom IoU‑based persistence and confidence hysteresis.
-- **Tamper Detection:** Identifies occlusion, blur, and physical displacement using statistical anomaly detection (z‑score analysis).
-
-**Architecture Highlights:**
-- Thread‑pooled camera ingestion with adaptive frame skipping.
-- Twilio integration for two‑way WhatsApp/SMS commands (remote alarm control).
-- Polygon‑based ROI filtering per camera with smart alert cooldown.
-
----
-
-### 🏫 School Management Ecosystem
-**Problem:** Disconnected tools for admissions, finance, and academics create operational chaos.  
-**Solution:** A unified ERP platform that centralizes institutional workflows with granular access control.
-
-**Impact & Metrics:**
-- Serves **5 distinct user roles** with dynamic, permission‑based UI rendering.
-- **Automated fee tracking** with partial payment support and overdue escalation.
-- **JSON‑driven admission forms** eliminate hard‑coded fields and reduce development overhead.
-- **Automated GPA calculation** and printable report cards streamline academic reporting.
-
-**Architecture Highlights:**
-- Modular monolith built with NestJS, TypeORM, and PostgreSQL.
-- JWT authentication with refresh token rotation and permission guards.
-- Built‑in developer utilities: raw query runner, cache clearing, and maintenance mode.
-
----
-
-## 📱 Additional Applications
-
-| Project | Technical Summary |
-| :--- | :--- |
-| **Personal Diary** | Encrypted journaling system with structured note storage and authentication. |
-| **Little Logic Heroes** | Educational platform leveraging TypeScript for early childhood cognitive development. |
-| **Nuclear Fact Fusion** | Interactive quiz application built with Kotlin and science‑driven content logic. |
-| **Web Development Lab** | Full‑stack experimentation repository covering modern React, Node, and API design. |
-
----
-
-## ⚙️ Engineering Focus
-
-- Distributed & real‑time system design
-- Computer vision pipeline optimization
-- Backend performance tuning & database indexing
-- Secure API development & RBAC implementation
-
----
-
-## 🤝 Collaboration & Availability
-
-I partner with teams and businesses that require **serious engineering**—not just code.
-
-**Available for:**
-- Backend system architecture (APIs, databases, scaling)
-- AI‑based detection and surveillance integrations
-- Automation workflows (Twilio, WhatsApp, third‑party APIs)
-- Full‑stack web and mobile application development
-
-<div align="center">
-
-| Channel | Contact |
-| :--- | :--- |
-| **Email** | [abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com) |
-| **Fiverr** | [abbdulrehmaan83@gmail.com](mailto:abbdulrehmaan83@gmail.com) |
-| **WhatsApp** | [+92 310 6770401](https://wa.me/923106770401) |
-| **GitHub** | [abdulrehman572](https://github.com/abdulrehman572) |
-
-</div>
-
----
-
-## 📊 Development Activity
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdulrehman572&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2F9B5E&icon_color=2F9B5E"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman572&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2F9B5E"/>
 </div>
 
+---
+
+## 📬 Connect & Collaborate
+
+I'm available for freelance engineering, system architecture consultations, and technical collaboration.
+
+<div align="center">
+
+| Channel | Contact |
+| :--- | :--- |
+| **Email** | [abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com) |
+| **Fiverr** | [abbdulrehmaan83@gmail.com](mailto:abbdulrehmaan83@gmail.com) |
+| **WhatsApp** | [+92 310 6770401](https://wa.me/923106770401) |
+| **GitHub** | [abdulrehman572](https://github.com/abdulrehman572) |
+
+</div>
+
 <div align="center">
   <br>
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman572&color=2F9B5E&style=flat-square" alt="Profile Views" />
+  <br><br>
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
