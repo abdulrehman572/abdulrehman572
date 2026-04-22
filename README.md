@@ -1,7 +1,3 @@
-it should just count the visits that are not done by me and my ip adress 
-it should just show the count to me that are by others
-
-now edit me whole reame
 
 <div align="center">
 
