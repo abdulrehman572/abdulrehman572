@@ -8,7 +8,13 @@ Building **AI-powered applications, computer vision systems, business software, 
 
 <p>
   <a href="https://github.com/abdulrehman572">
-    <img src="https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdul_Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdulrehmanprog@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -256,7 +262,7 @@ A Kotlin-based Android application for creating, storing, and managing personal 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square\&logo=qt\&logoColor=white)
 
-## 🛠️ Tools & Workflow
+## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
@@ -268,7 +274,7 @@ A Kotlin-based Android application for creating, storing, and managing personal 
 
 I focus on combining software engineering with AI to build complete, practical systems.
 
-```text
+```text id="l2r8px"
 Software Engineering
         +
 Full-Stack Development
@@ -282,7 +288,7 @@ Automation
 Real-World Product Development
 ```
 
-I care about:
+### What I Value
 
 * Clean and understandable architecture
 * Maintainable code
@@ -312,7 +318,7 @@ My current technical focus includes:
 
 # 📊 Development Philosophy
 
-```text
+```text id="5o0vls"
 Understand the Problem
         ↓
 Design the System
@@ -346,7 +352,7 @@ My objective is to build intelligent software that moves beyond demos and tutori
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -354,14 +360,13 @@ My objective is to build intelligent software that moves beyond demos and tutori
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/
+<a href="https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
 
+<a href="mailto:abdulrehmanprog@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
