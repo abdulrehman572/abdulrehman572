@@ -262,25 +262,6 @@ I use modern development tools, including **AI-assisted development**, to accele
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrehman572&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman572&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdulrehman572&hide_border=true" />
-
-</div>
-
----
 
 # 📌 Portfolio Highlights
 
