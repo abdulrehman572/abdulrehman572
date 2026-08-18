@@ -10,7 +10,6 @@ Building **real-world software, AI-powered applications, and business solutions*
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge\&logo=github)](https://github.com/abdulrehman572)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdulrehman572\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)](https://github.com/abdulrehman572)
 
 </div>
 
