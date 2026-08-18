@@ -2,14 +2,15 @@
 
 # Abdul Rehman
 
-### Full-Stack Developer · AI & Computer Vision Developer
+### AI & Full-Stack Software Developer
 
-Building **real-world software, AI-powered applications, and business solutions** from idea to deployment.
+Building **AI-powered applications, computer vision systems, business software, and full-stack products** from idea to deployment.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge\&logo=github)](https://github.com/abdulrehman572)
-
+<p>
+  <a href="https://github.com/abdulrehman572">
+    <img src="https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </div>
 
@@ -17,70 +18,116 @@ Building **real-world software, AI-powered applications, and business solutions*
 
 ## 👋 About Me
 
-I am a **Computer Science developer** focused on building practical software that solves real-world problems.
+I'm a **Computer Science developer** focused on building practical software that solves real-world problems.
 
-My work spans **full-stack web development, artificial intelligence, computer vision, desktop applications, Android development, databases, APIs, and business management systems**.
+My experience spans **Artificial Intelligence, Computer Vision, Full-Stack Development, Backend Systems, Android Development, Desktop Applications, Databases, APIs, and Business Management Software**.
 
-I enjoy taking products from:
+I enjoy taking software from:
 
 ```text
-Idea → Requirements → Architecture → Development → AI/API Integration → Testing → Deployment
+Idea
+  ↓
+Requirements
+  ↓
+Architecture
+  ↓
+Development
+  ↓
+AI / API Integration
+  ↓
+Testing & Debugging
+  ↓
+Optimization
+  ↓
+Deployment
 ```
 
-I focus on building software that is not only functional, but also **maintainable, scalable, and practical for real users**.
+My goal is simple:
+
+> **Build software that is useful, maintainable, and ready for real users.**
 
 ---
 
-## 🚀 What I Build
+# 🚀 What I Build
 
-* 🤖 AI-powered applications
-* 👁️ Computer vision systems
-* 🌐 Full-stack web applications
-* 🏪 POS & business management systems
-* 📊 Inventory and analytics platforms
-* 🖥️ Desktop applications
-* 📱 Android applications
-* 🔌 REST APIs & backend systems
-* 🗄️ Database-driven applications
-* ⚙️ Automation tools
-* 🎓 Educational applications
+| Area                 | What I Work On                                        |
+| -------------------- | ----------------------------------------------------- |
+| 🤖 AI                | AI-powered applications & intelligent automation      |
+| 👁️ Computer Vision  | Object detection, tracking & real-time vision systems |
+| 🌐 Full-Stack        | Complete web applications & backend systems           |
+| 🏪 Business Software | POS, inventory, sales & management systems            |
+| 📱 Mobile            | Android & cross-platform applications                 |
+| 🖥️ Desktop          | Python-based desktop applications                     |
+| 🔌 APIs              | REST APIs, integrations & automation                  |
+| 🗄️ Databases        | Relational & cloud databases                          |
+| ⚙️ Automation        | API-driven workflows & software automation            |
 
 ---
 
 # ⭐ Featured Projects
 
-## 🛡️ Smart-Gaurd — AI-Powered Surveillance System
+## 🛡️ SmartGuard — AI-Powered Surveillance System
 
-AI-powered desktop surveillance software for real-time multi-camera monitoring.
+Real-time AI surveillance software designed for **multi-camera monitoring, object detection, tracking, alerts, and security automation**.
 
-**Tech:** `Python` `PyQt5` `OpenCV` `PyTorch` `YOLOv8` `Flask` `Twilio`
+**Tech Stack**
 
-### Highlights
+`Python` `PyQt5` `OpenCV` `PyTorch` `YOLOv8` `Flask` `Twilio`
 
-* 🎥 Multi-camera video monitoring
-* 🤖 YOLOv8 human detection
+### Key Features
+
+* 🎥 Multi-camera monitoring
+* 🤖 YOLOv8-based object detection
 * 🎯 Object tracking
 * 🛡️ Camera tampering detection
 * 📍 Region of Interest monitoring
 * 🚨 Automated alarm system
-* 📱 SMS & WhatsApp alerts
+* 📱 SMS & WhatsApp notifications
 * 📡 Remote commands
 * 📸 Screenshot capture
 * 📊 Performance monitoring
 * ⚡ Multi-threaded video processing
 
 **Repository:**
-[View Smart-Gaurd →](https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System)
+[View SmartGuard →](https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System)
+
+---
+
+## 🏫 School Management System
+
+A full-stack management platform designed to handle **students, teachers, administration, attendance, academics, and institutional workflows**.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
+
+### Key Areas
+
+* 👨‍🎓 Student management
+* 👨‍🏫 Teacher management
+* 📚 Academic management
+* 📝 Attendance
+* 💰 Fee management
+* 🔐 Role-based access
+* 📊 Dashboards & analytics
+* 📄 Reports
+* 🗄️ Database-driven architecture
+* 🔌 REST API integration
+
+**Repository:**
+[View School Management System →](https://github.com/abdulrehman572)
 
 ---
 
 ## 🏪 Kiryana POS — Retail Management System
 
-A full-stack POS and business management system designed around the workflows of **Kiryana stores and small retail businesses**.
+A full-stack **Point of Sale and retail management system** designed around the workflows of small retail and Kiryana businesses.
 
-**Tech:** `Node.js` `Express.js` `PostgreSQL` `Prisma` `JavaScript` `Alpine.js` `Chart.js`
+**Tech Stack**
 
-### Highlights
+`Node.js` `Express.js` `PostgreSQL` `Prisma` `JavaScript` `Alpine.js` `Chart.js`
+
+### Key Features
 
 * 💰 Sales & billing
 * 📦 Inventory management
@@ -93,49 +140,41 @@ A full-stack POS and business management system designed around the workflows of
 * 📊 Business analytics
 * 📑 Reports
 * 💾 Backup & restore
-* 🏪 Local retail workflows
+* 🏪 Retail-focused workflows
 
 **Repository:**
 [View Kiryana POS →](https://github.com/abdulrehman572/kiryana-app)
 
 ---
 
-## 📱 Personal Diary Android App
+## 🤖 JARVIS — Windows Voice Assistant
 
-A Kotlin-based Android application for creating and managing personal diary entries.
+A Python-based desktop voice assistant focused on **voice interaction, automation, system control, and intelligent desktop workflows**.
 
-**Tech:** `Kotlin` `Android` `Firebase` `XML` `Material Design`
+**Tech Stack**
 
-### Highlights
-
-* 🔐 User registration & authentication
-* 📝 Diary entry creation
-* 📅 Date-based entries
-* ☁️ Firebase Realtime Database
-* 📁 Firebase Storage
-* 💾 Local data persistence
-* 🎨 Material Design interface
-* ✨ Android animations
-* 🧭 Multi-screen navigation
+`Python` `Speech Recognition` `Automation` `APIs` `Desktop Integration`
 
 **Repository:**
-[View Personal Diary App →](https://github.com/abdulrehman572/Personal-Diary-Android-App)
+[View JARVIS →](https://github.com/abdulrehman572/Windows-Voice-Assistant-main)
 
 ---
 
 ## 🧠 Little Logic Heroes
 
-An educational mobile application designed to make early learning interactive through games and activities.
+An educational mobile application designed to make early learning more interactive through **games, puzzles, activities, and guided learning experiences**.
 
-**Tech:** `React Native` `Expo` `TypeScript` `React Navigation` `AsyncStorage`
+**Tech Stack**
 
-### Highlights
+`React Native` `Expo` `TypeScript` `React Navigation` `AsyncStorage`
+
+### Key Features
 
 * 🔷 Shape recognition
 * 🔢 Counting & number learning
 * 🧩 Pattern recognition
 * 🧠 Logic activities
-* 🎮 Puzzle-based learning
+* 🎮 Educational games
 * 🧠 Memory activities
 * 🔤 Alphabet learning
 * 🎙️ Speech-based learning
@@ -148,143 +187,91 @@ An educational mobile application designed to make early learning interactive th
 
 ---
 
+## 📱 Personal Diary Android App
+
+A Kotlin-based Android application for creating, storing, and managing personal diary entries.
+
+**Tech Stack**
+
+`Kotlin` `Android` `Firebase` `XML` `Material Design`
+
+### Key Features
+
+* 🔐 User authentication
+* 📝 Diary entry management
+* 📅 Date-based organization
+* ☁️ Firebase Realtime Database
+* 📁 Firebase Storage
+* 💾 Local persistence
+* 🎨 Material Design UI
+* ✨ Android animations
+* 🧭 Multi-screen navigation
+
+**Repository:**
+[View Personal Diary →](https://github.com/abdulrehman572/Personal-Diary-Android-App)
+
+---
+
 # 🧰 Technical Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-## AI & Computer Vision
+## 🤖 AI & Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 
-## Web & Backend
+## 🌐 Web & Backend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-## Databases & Services
+## 🗄️ Databases & Services
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 
-## Applications & Tools
+## 📱 Mobile & Desktop
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square\&logo=qt\&logoColor=white)
+
+## 🛠️ Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-# 💡 What I Bring
+# 🧠 Engineering Focus
 
-```text
-Problem Solving
-      ↓
-System Design
-      ↓
-Full-Stack Development
-      ↓
-AI / Computer Vision Integration
-      ↓
-API & Database Integration
-      ↓
-Testing & Debugging
-      ↓
-Optimization
-      ↓
-Deployment
-```
-
-I focus on turning ideas into **working, usable software** rather than stopping at tutorials or isolated code examples.
-
----
-
-# 🔬 Current Focus
-
-Currently focusing on improving my skills in:
-
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision
-* 🧠 AI-powered applications
-* 🔗 AI & API integration
-* 🌐 Full-stack application architecture
-* ⚙️ Automation
-* 🏗️ Scalable software design
-
----
-
-# 📈 Development Approach
-
-### Idea → Prototype → Build → Test → Ship
-
-My typical development workflow:
-
-```text
-Problem
-   ↓
-Requirements
-   ↓
-Architecture
-   ↓
-Rapid Prototype
-   ↓
-Implementation
-   ↓
-AI / API Integration
-   ↓
-Testing & Debugging
-   ↓
-Optimization
-   ↓
-Deployment
-```
-
-I use modern development tools, including **AI-assisted development**, to accelerate research, prototyping, debugging, and implementation while keeping the underlying architecture understandable and maintainable.
-
----
-
-
-# 📌 Portfolio Highlights
-
-| Area                       | Experience                             |
-| -------------------------- | -------------------------------------- |
-| 🤖 Artificial Intelligence | YOLOv8, PyTorch, Computer Vision       |
-| 👁️ Computer Vision        | OpenCV, MediaPipe, Real-Time Detection |
-| 🌐 Full-Stack Development  | Frontend, Backend, APIs                |
-| 🏪 Business Software       | POS, Inventory, Management Systems     |
-| 📱 Mobile Development      | Kotlin, Android, React Native          |
-| 🖥️ Desktop Development    | Python, PyQt5                          |
-| 🗄️ Databases              | PostgreSQL, MySQL, Firebase            |
-| 🔌 APIs & Integration      | REST APIs, Webhooks, Twilio            |
-| ⚙️ Automation              | API Integration & Workflow Automation  |
-
----
-
-# 🎯 Goals
-
-I am continuously working toward becoming a stronger **AI + Software Engineer** by combining:
+I focus on combining software engineering with AI to build complete, practical systems.
 
 ```text
 Software Engineering
+        +
+Full-Stack Development
         +
 Artificial Intelligence
         +
@@ -295,15 +282,86 @@ Automation
 Real-World Product Development
 ```
 
-My goal is to build software that is technically strong, useful, and capable of solving real-world problems.
+I care about:
+
+* Clean and understandable architecture
+* Maintainable code
+* Practical user workflows
+* Reliable APIs and databases
+* Performance optimization
+* Debugging and problem solving
+* Testing and validation
+* Deployment and usability
 
 ---
 
-# 🤝 Let's Connect
+# 🔬 Currently Learning & Improving
+
+My current technical focus includes:
+
+* 🤖 AI application development
+* 🧠 LLM-powered applications
+* 🔗 AI & API integration
+* 👁️ Computer Vision
+* ⚙️ Automation
+* 🌐 Advanced full-stack architecture
+* 🏗️ Scalable backend systems
+* 🐳 Deployment & DevOps fundamentals
+
+---
+
+# 📊 Development Philosophy
+
+```text
+Understand the Problem
+        ↓
+Design the System
+        ↓
+Build the Prototype
+        ↓
+Implement the Solution
+        ↓
+Integrate AI / APIs
+        ↓
+Test & Debug
+        ↓
+Optimize
+        ↓
+Deploy
+        ↓
+Improve
+```
+
+I use modern development tools, including **AI-assisted development**, for research, prototyping, debugging, and productivity while maintaining a strong understanding of the underlying code and architecture.
+
+---
+
+# 🎯 Long-Term Direction
+
+I'm working toward becoming a stronger **AI Software Engineer** by combining:
+
+**Software Engineering + Artificial Intelligence + Computer Vision + Automation**
+
+My objective is to build intelligent software that moves beyond demos and tutorials into **useful, reliable, real-world products**.
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abdulrehman572)
+<a href="https://github.com/abdulrehman572">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn -->
+
+<!--
+<a href="YOUR_LINKEDIN_URL">
+https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/
+</a>
+-->
+
 
 </div>
 
@@ -311,8 +369,6 @@ My goal is to build software that is technically strong, useful, and capable of 
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
-
-**Building → Learning → Improving → Shipping**
+### Building • Learning • Improving • Shipping 🚀
 
 </div>
