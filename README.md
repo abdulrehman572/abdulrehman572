@@ -4,9 +4,9 @@
 
 ### AI & Full-Stack Software Developer
 
-I build AI-powered applications, computer vision systems, business software, and full-stack products from idea to deployment.
+Building practical AI-powered applications, computer vision systems, business software, and full-stack products.
 
-[GitHub](https://github.com/abdulrehman572) · [LinkedIn](https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/)
+[GitHub](https://github.com/abdulrehman572) • [LinkedIn](https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/)
 
 </div>
 
@@ -16,21 +16,55 @@ I build AI-powered applications, computer vision systems, business software, and
 
 I am a Computer Science developer focused on building practical software that solves real-world problems.
 
-My work combines:
+My work combines software engineering, artificial intelligence, computer vision, full-stack development, mobile applications, and business systems.
 
-* Artificial Intelligence
-* Computer Vision
-* Full-Stack Development
-* Backend Systems
-* Business Software
-* Android Development
-* Desktop Applications
-* Database-Driven Applications
-* API Integration and Automation
+I enjoy taking projects from requirements and system design through development, testing, deployment, and continuous improvement.
 
-I enjoy taking a project from understanding the requirements and designing the architecture to development, testing, deployment, and continuous improvement.
+### What I Build
 
-I use AI-assisted development tools for research, prototyping, debugging, and productivity while maintaining a strong understanding of the code and systems I build.
+<table>
+<tr>
+<td width="25%" align="center">
+
+### AI Applications
+
+AI-powered software  
+Intelligent automation  
+API integration
+
+</td>
+
+<td width="25%" align="center">
+
+### Computer Vision
+
+Object detection  
+Image processing  
+Real-time systems
+
+</td>
+
+<td width="25%" align="center">
+
+### Full-Stack Systems
+
+Web applications  
+REST APIs  
+Database systems
+
+</td>
+
+<td width="25%" align="center">
+
+### Business Software
+
+POS systems  
+Management platforms  
+Workflow automation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,22 +72,21 @@ I use AI-assisted development tools for research, prototyping, debugging, and pr
 
 ### SmartGuard — AI-Powered Surveillance System
 
-A real-time multi-camera surveillance application built around computer vision and automated security workflows.
+A real-time multi-camera surveillance application focused on computer vision, monitoring, detection, and automated security workflows.
 
 **Key Features**
 
-* Multi-camera monitoring
-* YOLOv8 object detection
-* Object tracking
-* Camera tampering detection
-* Region of Interest monitoring
-* Automated alerts
-* SMS and WhatsApp notifications
-* Remote commands
-* Screenshot capture
-* Multi-threaded video processing
+- Multi-camera monitoring
+- YOLOv8 object detection
+- Object tracking
+- Camera tampering detection
+- Region of Interest monitoring
+- Automated alerts
+- SMS and WhatsApp notifications
+- Screenshot capture
+- Multi-threaded video processing
 
-**Tech Stack**
+**Technologies**
 
 `Python` `PyQt5` `OpenCV` `PyTorch` `YOLOv8` `Flask` `Twilio`
 
@@ -67,18 +100,18 @@ A full-stack management platform designed to manage students, teachers, attendan
 
 **Key Features**
 
-* Student management
-* Teacher management
-* Academic management
-* Attendance management
-* Fee management
-* Role-based access
-* Dashboards and analytics
-* Reports
-* REST API integration
-* Database-driven architecture
+- Student management
+- Teacher management
+- Academic management
+- Attendance management
+- Fee management
+- Role-based access
+- Dashboards and analytics
+- Reports
+- REST API integration
+- Database-driven architecture
 
-**Tech Stack**
+**Technologies**
 
 `React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
 
@@ -88,23 +121,22 @@ A full-stack management platform designed to manage students, teachers, attendan
 
 ### Kiryana POS — Retail Management System
 
-A full-stack Point of Sale and retail management system designed around the workflows of small retail businesses.
+A retail management and Point of Sale system designed around the workflows of small retail businesses.
 
 **Key Features**
 
-* Sales and billing
-* Inventory management
-* Customer management
-* Supplier management
-* Credit and Khata management
-* Customer and supplier ledgers
-* Purchases and returns
-* Payments and expenses
-* Business analytics
-* Reports
-* Backup and restore
+- Sales and billing
+- Inventory management
+- Customer management
+- Supplier management
+- Credit and ledger management
+- Purchases and returns
+- Payments and expenses
+- Business analytics
+- Reports
+- Backup and restore
 
-**Tech Stack**
+**Technologies**
 
 `Node.js` `Express.js` `PostgreSQL` `Prisma` `JavaScript` `Alpine.js` `Chart.js`
 
@@ -116,9 +148,18 @@ A full-stack Point of Sale and retail management system designed around the work
 
 A Python-based desktop voice assistant focused on voice interaction, system automation, and desktop control.
 
-**Tech Stack**
+**Focus Areas**
 
-`Python` `Speech Recognition` `Automation` `APIs` `Desktop Integration`
+- Voice interaction
+- Speech recognition
+- Desktop automation
+- System commands
+- API integration
+- Application control
+
+**Technologies**
+
+`Python` `Speech Recognition` `Automation` `APIs`
 
 [View Repository](https://github.com/abdulrehman572/Windows-Voice-Assistant-Jarvis)
 
@@ -130,19 +171,19 @@ An educational mobile application designed to make early learning interactive th
 
 **Key Features**
 
-* Shape recognition
-* Counting and number learning
-* Pattern recognition
-* Logic activities
-* Educational games
-* Memory activities
-* Alphabet learning
-* Speech-based learning
-* Haptic feedback
-* Animated interface
-* Local progress tracking
+- Shape recognition
+- Counting and number learning
+- Pattern recognition
+- Logic activities
+- Educational games
+- Memory activities
+- Alphabet learning
+- Speech-based learning
+- Haptic feedback
+- Animated interface
+- Local progress tracking
 
-**Tech Stack**
+**Technologies**
 
 `React Native` `Expo` `TypeScript` `React Navigation` `AsyncStorage`
 
@@ -152,21 +193,21 @@ An educational mobile application designed to make early learning interactive th
 
 ### Personal Diary Android App
 
-A Kotlin-based Android application for creating, storing, and managing personal diary entries with cloud integration.
+A Kotlin-based Android application for creating, storing, and managing personal diary entries with Firebase integration.
 
 **Key Features**
 
-* User authentication
-* Diary entry management
-* Date-based organization
-* Firebase Realtime Database
-* Firebase Storage
-* Local persistence
-* Material Design interface
-* Multi-screen navigation
-* Android animations
+- User authentication
+- Diary entry management
+- Date-based organization
+- Firebase Realtime Database
+- Firebase Storage
+- Local persistence
+- Material Design interface
+- Multi-screen navigation
+- Android animations
 
-**Tech Stack**
+**Technologies**
 
 `Kotlin` `Android` `Firebase` `XML` `Material Design`
 
@@ -176,48 +217,184 @@ A Kotlin-based Android application for creating, storing, and managing personal 
 
 ## Technical Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Programming Languages
 
-`Python` `C++` `JavaScript` `TypeScript` `Kotlin`
+`Python`  
+`C++`  
+`JavaScript`  
+`TypeScript`  
+`Kotlin`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### AI & Computer Vision
 
-`PyTorch` `OpenCV` `YOLOv8`
+`PyTorch`  
+`OpenCV`  
+`YOLOv8`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Web Development
 
-`React` `Node.js` `Express.js` `Tailwind CSS`
+`React`  
+`Node.js`  
+`Express.js`  
+`Tailwind CSS`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Databases & Backend
 
-`PostgreSQL` `Prisma` `Firebase`
+`PostgreSQL`  
+`Prisma`  
+`Firebase`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Mobile & Desktop
 
-`React Native` `Expo` `Android` `PyQt5`
+`React Native`  
+`Expo`  
+`Android`  
+`PyQt5`
 
-### Tools
+</td>
 
-`Git` `GitHub` `VS Code`
+<td width="50%" valign="top">
+
+### Development Tools
+
+`Git`  
+`GitHub`  
+`VS Code`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Engineering Focus
 
-I focus on combining software engineering with AI to build complete and practical systems.
+<table>
+<tr>
+<td width="25%" align="center">
 
-**Software Engineering + Full-Stack Development + Artificial Intelligence + Computer Vision + Automation**
+### Software Engineering
 
-Areas I care about:
+Clean architecture  
+Maintainable code  
+Problem solving
 
-* Clean and understandable architecture
-* Maintainable code
-* Practical user workflows
-* Reliable APIs and databases
-* Performance optimization
-* Debugging and problem solving
-* Testing and validation
-* Deployment and usability
+</td>
+
+<td width="25%" align="center">
+
+### Artificial Intelligence
+
+AI applications  
+Model integration  
+Intelligent systems
+
+</td>
+
+<td width="25%" align="center">
+
+### Computer Vision
+
+Detection  
+Tracking  
+Image processing
+
+</td>
+
+<td width="25%" align="center">
+
+### Full-Stack Development
+
+Frontend  
+Backend  
+Databases  
+APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+## Development Approach
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+**01**
+
+Understand
+
+</td>
+
+<td align="center" width="16%">
+
+**02**
+
+Plan
+
+</td>
+
+<td align="center" width="16%">
+
+**03**
+
+Design
+
+</td>
+
+<td align="center" width="16%">
+
+**04**
+
+Build
+
+</td>
+
+<td align="center" width="16%">
+
+**05**
+
+Test
+
+</td>
+
+<td align="center" width="16%">
+
+**06**
+
+Deploy
+
+</td>
+</tr>
+</table>
+
+I focus on understanding the problem first, designing a practical solution, building the system in a maintainable way, testing it carefully, and improving it based on real requirements.
 
 ---
 
@@ -225,40 +402,14 @@ Areas I care about:
 
 I am continuously improving my skills in:
 
-* AI application development
-* LLM-powered applications
-* AI and API integration
-* Computer Vision
-* Automation
-* Advanced full-stack architecture
-* Scalable backend systems
-* Deployment and DevOps
-
----
-
-## Development Approach
-
-```text
-Understand the Problem
-        ↓
-Define Requirements
-        ↓
-Design the Architecture
-        ↓
-Build the Solution
-        ↓
-Integrate AI / APIs
-        ↓
-Test & Debug
-        ↓
-Optimize
-        ↓
-Deploy
-        ↓
-Improve
-```
-
-I believe good software is not only about writing code. It is about understanding the problem, designing a maintainable solution, and building something that is genuinely useful to its users.
+- AI application development
+- LLM-powered applications
+- AI and API integration
+- Computer Vision
+- Automation
+- Advanced full-stack architecture
+- Scalable backend systems
+- Deployment and DevOps
 
 ---
 
@@ -266,17 +417,39 @@ I believe good software is not only about writing code. It is about understandin
 
 I am working toward becoming a stronger AI Software Engineer by combining:
 
-```text
+<table>
+<tr>
+<td align="center" width="20%">
+
 Software Engineering
-        +
+
+</td>
+
+<td align="center" width="20%">
+
 Artificial Intelligence
-        +
+
+</td>
+
+<td align="center" width="20%">
+
 Computer Vision
-        +
+
+</td>
+
+<td align="center" width="20%">
+
 Automation
-        +
-Real-World Product Development
-```
+
+</td>
+
+<td align="center" width="20%">
+
+Product Development
+
+</td>
+</tr>
+</table>
 
 My goal is to build intelligent software that goes beyond demos and tutorials and becomes useful, reliable, and maintainable real-world products.
 
@@ -284,14 +457,17 @@ My goal is to build intelligent software that goes beyond demos and tutorials an
 
 ## Let's Connect
 
-**GitHub:**
+**GitHub**
+
 https://github.com/abdulrehman572
 
-**LinkedIn:**
+**LinkedIn**
+
 https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/
 
-**Email:**
-[abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com)
+**Email**
+
+abdulrehmanprog@gmail.com
 
 ---
 
