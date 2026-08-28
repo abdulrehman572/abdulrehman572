@@ -121,7 +121,7 @@ A full-stack management platform designed to handle **students, teachers, admini
 * 🔌 REST API integration
 
 **Repository:**
-[View School Management System →](https://github.com/abdulrehman572)
+[View School Management System →](https://github.com/abdulrehman572/School_Managment_System)
 
 ---
 
@@ -149,7 +149,7 @@ A full-stack **Point of Sale and retail management system** designed around the 
 * 🏪 Retail-focused workflows
 
 **Repository:**
-[View Kiryana POS →](https://github.com/abdulrehman572/kiryana-app)
+[View Kiryana POS →](https://github.com/abdulrehman572/Khubaib-POS-Pro)
 
 ---
 
