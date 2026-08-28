@@ -1,21 +1,12 @@
 <div align="center">
 
 # Abdul Rehman
+
 ### AI & Full-Stack Software Developer
 
-I build AI-powered applications, computer vision systems, and full-stack products — from idea to deployment.
+I build AI-powered applications, computer vision systems, business software, and full-stack products from idea to deployment.
 
-<p>
-  <a href="https://github.com/abdulrehman572">
-    <img src="https://img.shields.io/badge/GitHub-abdulrehman572-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdul_Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdulrehmanprog@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[GitHub](https://github.com/abdulrehman572) · [LinkedIn](https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/)
 
 </div>
 
@@ -23,108 +14,289 @@ I build AI-powered applications, computer vision systems, and full-stack product
 
 ## About Me
 
-Computer Science developer focused on building practical software that solves real problems — spanning AI, computer vision, full-stack web, Android, and desktop applications.
+I am a Computer Science developer focused on building practical software that solves real-world problems.
 
-My process: **understand the problem → design the system → build → integrate AI/APIs → test → deploy → iterate.** I use AI-assisted tools for prototyping and debugging, but I make sure I understand every line that ships.
+My work combines:
+
+* Artificial Intelligence
+* Computer Vision
+* Full-Stack Development
+* Backend Systems
+* Business Software
+* Android Development
+* Desktop Applications
+* Database-Driven Applications
+* API Integration and Automation
+
+I enjoy taking a project from understanding the requirements and designing the architecture to development, testing, deployment, and continuous improvement.
+
+I use AI-assisted development tools for research, prototyping, debugging, and productivity while maintaining a strong understanding of the code and systems I build.
 
 ---
 
 ## Featured Projects
 
-### 🛡️ SmartGuard — AI-Powered Surveillance System
-Real-time multi-camera monitoring with YOLOv8 object detection, tracking, tampering detection, and automated SMS/WhatsApp alerts.
+### SmartGuard — AI-Powered Surveillance System
+
+A real-time multi-camera surveillance application built around computer vision and automated security workflows.
+
+**Key Features**
+
+* Multi-camera monitoring
+* YOLOv8 object detection
+* Object tracking
+* Camera tampering detection
+* Region of Interest monitoring
+* Automated alerts
+* SMS and WhatsApp notifications
+* Remote commands
+* Screenshot capture
+* Multi-threaded video processing
+
+**Tech Stack**
 
 `Python` `PyQt5` `OpenCV` `PyTorch` `YOLOv8` `Flask` `Twilio`
 
-**[View repo →](https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System)**
+[View Repository](https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System)
 
 ---
 
-### 🏫 School Management System
-Full-stack platform for student/teacher records, attendance, fees, and academic workflows with role-based access.
+### School Management System
+
+A full-stack management platform designed to manage students, teachers, attendance, fees, academics, administration, and institutional workflows.
+
+**Key Features**
+
+* Student management
+* Teacher management
+* Academic management
+* Attendance management
+* Fee management
+* Role-based access
+* Dashboards and analytics
+* Reports
+* REST API integration
+* Database-driven architecture
+
+**Tech Stack**
 
 `React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
 
-**[View repo →](https://github.com/abdulrehman572/School_Managment_System)**
+[View Repository](https://github.com/abdulrehman572/School_Managment_System)
 
 ---
 
-### 🏪 Kiryana POS — Retail Management System
-POS and inventory system built around small-retail workflows: billing, supplier ledgers, credit/udhaar tracking, and business analytics.
+### Kiryana POS — Retail Management System
 
-`Node.js` `Express.js` `PostgreSQL` `Prisma` `Alpine.js` `Chart.js`
+A full-stack Point of Sale and retail management system designed around the workflows of small retail businesses.
 
-**[View repo →](https://github.com/abdulrehman572/Khubaib-POS-Pro)**
+**Key Features**
 
----
+* Sales and billing
+* Inventory management
+* Customer management
+* Supplier management
+* Credit and Khata management
+* Customer and supplier ledgers
+* Purchases and returns
+* Payments and expenses
+* Business analytics
+* Reports
+* Backup and restore
 
-### 🤖 JARVIS — Windows Voice Assistant
-Desktop voice assistant for speech-driven system control and automation.
+**Tech Stack**
 
-`Python` `Speech Recognition` `Automation`
+`Node.js` `Express.js` `PostgreSQL` `Prisma` `JavaScript` `Alpine.js` `Chart.js`
 
-**[View repo →](https://github.com/abdulrehman572/Windows-Voice-Assistant-main)**
-
----
-
-### 🧠 Little Logic Heroes
-Educational mobile app teaching shapes, counting, and pattern recognition through interactive games.
-
-`React Native` `Expo` `TypeScript`
-
-**[View repo →](https://github.com/abdulrehman572/Little-logic-heroes)**
-
----
-
-### 📱 Personal Diary Android App
-Kotlin Android app for diary entries with Firebase auth and cloud storage.
-
-`Kotlin` `Firebase` `Material Design`
-
-**[View repo →](https://github.com/abdulrehman572/Personal-Diary-Android-App)**
+[View Repository](https://github.com/abdulrehman572/Khubaib-POS-Pro)
 
 ---
 
-## Tech Stack
+### JARVIS — Windows Voice Assistant
 
-**Languages:** Python · C++ · JavaScript · 
+A Python-based desktop voice assistant focused on voice interaction, system automation, and desktop control.
 
-**AI / Computer Vision:** PyTorch · OpenCV · YOLOv8
+**Tech Stack**
 
-**Web / Backend:** React · Node.js · Express · Tailwind CSS
+`Python` `Speech Recognition` `Automation` `APIs` `Desktop Integration`
 
-**Databases & Services:** PostgreSQL · Prisma · Firebase
+[View Repository](https://github.com/abdulrehman572/Windows-Voice-Assistant-Jarvis)
 
-**Mobile / Desktop:** React Native · Expo · Android · PyQt5
+---
 
-**Tools:** Git · GitHub · VS Code
+### Little Logic Heroes
+
+An educational mobile application designed to make early learning interactive through games, activities, and guided learning experiences.
+
+**Key Features**
+
+* Shape recognition
+* Counting and number learning
+* Pattern recognition
+* Logic activities
+* Educational games
+* Memory activities
+* Alphabet learning
+* Speech-based learning
+* Haptic feedback
+* Animated interface
+* Local progress tracking
+
+**Tech Stack**
+
+`React Native` `Expo` `TypeScript` `React Navigation` `AsyncStorage`
+
+[View Repository](https://github.com/abdulrehman572/Little-Logic-Heroes)
+
+---
+
+### Personal Diary Android App
+
+A Kotlin-based Android application for creating, storing, and managing personal diary entries with cloud integration.
+
+**Key Features**
+
+* User authentication
+* Diary entry management
+* Date-based organization
+* Firebase Realtime Database
+* Firebase Storage
+* Local persistence
+* Material Design interface
+* Multi-screen navigation
+* Android animations
+
+**Tech Stack**
+
+`Kotlin` `Android` `Firebase` `XML` `Material Design`
+
+[View Repository](https://github.com/abdulrehman572/Personal-Diary-Android-App)
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+`Python` `C++` `JavaScript` `TypeScript` `Kotlin`
+
+### AI & Computer Vision
+
+`PyTorch` `OpenCV` `YOLOv8`
+
+### Web Development
+
+`React` `Node.js` `Express.js` `Tailwind CSS`
+
+### Databases & Backend
+
+`PostgreSQL` `Prisma` `Firebase`
+
+### Mobile & Desktop
+
+`React Native` `Expo` `Android` `PyQt5`
+
+### Tools
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## Engineering Focus
+
+I focus on combining software engineering with AI to build complete and practical systems.
+
+**Software Engineering + Full-Stack Development + Artificial Intelligence + Computer Vision + Automation**
+
+Areas I care about:
+
+* Clean and understandable architecture
+* Maintainable code
+* Practical user workflows
+* Reliable APIs and databases
+* Performance optimization
+* Debugging and problem solving
+* Testing and validation
+* Deployment and usability
 
 ---
 
 ## Currently Learning
 
-LLM-powered application development · AI/API integration patterns · scalable backend architecture · deployment & DevOps fundamentals.
+I am continuously improving my skills in:
+
+* AI application development
+* LLM-powered applications
+* AI and API integration
+* Computer Vision
+* Automation
+* Advanced full-stack architecture
+* Scalable backend systems
+* Deployment and DevOps
+
+---
+
+## Development Approach
+
+```text
+Understand the Problem
+        ↓
+Define Requirements
+        ↓
+Design the Architecture
+        ↓
+Build the Solution
+        ↓
+Integrate AI / APIs
+        ↓
+Test & Debug
+        ↓
+Optimize
+        ↓
+Deploy
+        ↓
+Improve
+```
+
+I believe good software is not only about writing code. It is about understanding the problem, designing a maintainable solution, and building something that is genuinely useful to its users.
+
+---
+
+## Long-Term Direction
+
+I am working toward becoming a stronger AI Software Engineer by combining:
+
+```text
+Software Engineering
+        +
+Artificial Intelligence
+        +
+Computer Vision
+        +
+Automation
+        +
+Real-World Product Development
+```
+
+My goal is to build intelligent software that goes beyond demos and tutorials and becomes useful, reliable, and maintainable real-world products.
 
 ---
 
 ## Let's Connect
 
-<div align="center">
+**GitHub:**
+https://github.com/abdulrehman572
 
-<a href="https://github.com/abdulrehman572">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdulrehmanprog@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**LinkedIn:**
+https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/
 
-</div>
+**Email:**
+[abdulrehmanprog@gmail.com](mailto:abdulrehmanprog@gmail.com)
+
+---
 
 <div align="center">
 
-### Building • Learning • Shipping 🚀
+### Building. Learning. Improving. Shipping.
 
 </div>
