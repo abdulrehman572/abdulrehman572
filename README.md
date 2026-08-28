@@ -1,12 +1,28 @@
 <div align="center">
 
-# Abdul Rehman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Abdul%20Rehman&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Software%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-### AI & Full-Stack Software Developer
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Software+Developer;Building+Practical+AI-Powered+Applications;Computer+Vision+%7C+Full-Stack+%7C+Automation;Turning+Ideas+Into+Real-World+Software" alt="Typing SVG" />
+</a>
 
-Building practical AI-powered applications, computer vision systems, business software, and full-stack products.
+<br/>
 
-[GitHub](https://github.com/abdulrehman572) • [LinkedIn](https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/)
+<a href="https://github.com/abdulrehman572">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:abdulrehmanprog@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdulrehman572&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -14,53 +30,25 @@ Building practical AI-powered applications, computer vision systems, business so
 
 ## About Me
 
-I am a Computer Science developer focused on building practical software that solves real-world problems.
-
-My work combines software engineering, artificial intelligence, computer vision, full-stack development, mobile applications, and business systems.
-
-I enjoy taking projects from requirements and system design through development, testing, deployment, and continuous improvement.
-
-### What I Build
-
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="60%" valign="top">
 
-### AI Applications
+### Hello, I'm Abdul Rehman
 
-AI-powered software  
-Intelligent automation  
-API integration
+I am a **Computer Science developer** focused on building practical software that solves real-world problems.
 
-</td>
+My main interests are **Artificial Intelligence, Computer Vision, Full-Stack Development, Automation, and Business Software**.
 
-<td width="25%" align="center">
+I enjoy taking a project from an initial idea through **architecture, development, testing, deployment, and continuous improvement**.
 
-### Computer Vision
-
-Object detection  
-Image processing  
-Real-time systems
+I believe good software is not just about writing code. It is about understanding the problem and building a solution that is useful, maintainable, and reliable.
 
 </td>
 
-<td width="25%" align="center">
+<td width="40%" align="center">
 
-### Full-Stack Systems
-
-Web applications  
-REST APIs  
-Database systems
-
-</td>
-
-<td width="25%" align="center">
-
-### Business Software
-
-POS systems  
-Management platforms  
-Workflow automation
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,postgres,firebase,pytorch,opencv,kotlin,android&perline=4" />
 
 </td>
 </tr>
@@ -68,13 +56,79 @@ Workflow automation
 
 ---
 
-## Featured Projects
+## What I Build
 
-### SmartGuard — AI-Powered Surveillance System
+<div align="center">
 
-A real-time multi-camera surveillance application focused on computer vision, monitoring, detection, and automated security workflows.
+<table>
+<tr>
 
-**Key Features**
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+
+### AI Applications
+
+AI-powered software  
+Intelligent automation  
+AI API integration
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/face-id.png" width="55"/>
+
+### Computer Vision
+
+Object detection  
+Tracking  
+Real-time vision systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/web.png" width="55"/>
+
+### Full-Stack
+
+Web applications  
+REST APIs  
+Database systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/business.png" width="55"/>
+
+### Business Software
+
+POS systems  
+Management systems  
+Workflow automation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# Featured Projects
+
+## 01. SmartGuard — AI-Powered Surveillance System
+
+<a href="https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+A real-time multi-camera surveillance application built around **computer vision, object detection, monitoring, and automated security workflows**.
+
+### Core Features
 
 - Multi-camera monitoring
 - YOLOv8 object detection
@@ -86,19 +140,23 @@ A real-time multi-camera surveillance application focused on computer vision, mo
 - Screenshot capture
 - Multi-threaded video processing
 
-**Technologies**
+### Technologies
 
-`Python` `PyQt5` `OpenCV` `PyTorch` `YOLOv8` `Flask` `Twilio`
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" />
 
-[View Repository](https://github.com/abdulrehman572/Smart-Gaurd_Ai-Powered-Surveillance-System)
+`YOLOv8` `PyQt5` `Flask` `Twilio`
 
 ---
 
-### School Management System
+## 02. School Management System
 
-A full-stack management platform designed to manage students, teachers, attendance, fees, academics, administration, and institutional workflows.
+<a href="https://github.com/abdulrehman572/School_Managment_System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Key Features**
+A full-stack management platform designed to manage **students, teachers, attendance, fees, academics, administration, and institutional workflows**.
+
+### Core Features
 
 - Student management
 - Teacher management
@@ -111,19 +169,21 @@ A full-stack management platform designed to manage students, teachers, attendan
 - REST API integration
 - Database-driven architecture
 
-**Technologies**
+### Technologies
 
-`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
-
-[View Repository](https://github.com/abdulrehman572/School_Managment_System)
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,prisma,tailwind&theme=dark" />
 
 ---
 
-### Kiryana POS — Retail Management System
+## 03. Kiryana POS — Retail Management System
 
-A retail management and Point of Sale system designed around the workflows of small retail businesses.
+<a href="https://github.com/abdulrehman572/Khubaib-POS-Pro">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Key Features**
+A retail management and **Point of Sale system** designed around the workflows of small retail businesses.
+
+### Core Features
 
 - Sales and billing
 - Inventory management
@@ -136,19 +196,23 @@ A retail management and Point of Sale system designed around the workflows of sm
 - Reports
 - Backup and restore
 
-**Technologies**
+### Technologies
 
-`Node.js` `Express.js` `PostgreSQL` `Prisma` `JavaScript` `Alpine.js` `Chart.js`
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,js&theme=dark" />
 
-[View Repository](https://github.com/abdulrehman572/Khubaib-POS-Pro)
+`Prisma` `Alpine.js` `Chart.js`
 
 ---
 
-### JARVIS — Windows Voice Assistant
+## 04. JARVIS — Windows Voice Assistant
 
-A Python-based desktop voice assistant focused on voice interaction, system automation, and desktop control.
+<a href="https://github.com/abdulrehman572/Windows-Voice-Assistant-Jarvis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Focus Areas**
+A Python-based desktop voice assistant focused on **voice interaction, system automation, and desktop control**.
+
+### Focus Areas
 
 - Voice interaction
 - Speech recognition
@@ -157,19 +221,23 @@ A Python-based desktop voice assistant focused on voice interaction, system auto
 - API integration
 - Application control
 
-**Technologies**
+### Technologies
 
-`Python` `Speech Recognition` `Automation` `APIs`
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-[View Repository](https://github.com/abdulrehman572/Windows-Voice-Assistant-Jarvis)
+`Speech Recognition` `Automation` `APIs`
 
 ---
 
-### Little Logic Heroes
+## 05. Little Logic Heroes
 
-An educational mobile application designed to make early learning interactive through games, activities, and guided learning experiences.
+<a href="https://github.com/abdulrehman572/Little-Logic-Heroes">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Key Features**
+An educational mobile application designed to make early learning interactive through **games, activities, and guided learning experiences**.
+
+### Core Features
 
 - Shape recognition
 - Counting and number learning
@@ -183,19 +251,23 @@ An educational mobile application designed to make early learning interactive th
 - Animated interface
 - Local progress tracking
 
-**Technologies**
+### Technologies
 
-`React Native` `Expo` `TypeScript` `React Navigation` `AsyncStorage`
+<img src="https://skillicons.dev/icons?i=react,ts,expo&theme=dark" />
 
-[View Repository](https://github.com/abdulrehman572/Little-Logic-Heroes)
+`React Navigation` `AsyncStorage`
 
 ---
 
-### Personal Diary Android App
+## 06. Personal Diary Android App
+
+<a href="https://github.com/abdulrehman572/Personal-Diary-Android-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 A Kotlin-based Android application for creating, storing, and managing personal diary entries with Firebase integration.
 
-**Key Features**
+### Core Features
 
 - User authentication
 - Diary entry management
@@ -207,101 +279,75 @@ A Kotlin-based Android application for creating, storing, and managing personal 
 - Multi-screen navigation
 - Android animations
 
-**Technologies**
+### Technologies
 
-`Kotlin` `Android` `Firebase` `XML` `Material Design`
+<img src="https://skillicons.dev/icons?i=kotlin,android,firebase&theme=dark" />
 
-[View Repository](https://github.com/abdulrehman572/Personal-Diary-Android-App)
+`XML` `Material Design`
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Programming Languages
+### Languages
 
-`Python`  
-`C++`  
-`JavaScript`  
-`TypeScript`  
-`Kotlin`
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,kotlin&theme=dark" />
 
-</td>
-
-<td width="50%" valign="top">
+<br/><br/>
 
 ### AI & Computer Vision
 
-`PyTorch`  
-`OpenCV`  
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+
 `YOLOv8`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
 ### Web Development
 
-`React`  
-`Node.js`  
-`Express.js`  
-`Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" />
 
-</td>
-
-<td width="50%" valign="top">
+<br/><br/>
 
 ### Databases & Backend
 
-`PostgreSQL`  
-`Prisma`  
-`Firebase`
+<img src="https://skillicons.dev/icons?i=postgres,prisma,firebase&theme=dark" />
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
 ### Mobile & Desktop
 
-`React Native`  
-`Expo`  
-`Android`  
+<img src="https://skillicons.dev/icons?i=react,kotlin,android,expo&theme=dark" />
+
 `PyQt5`
 
-</td>
-
-<td width="50%" valign="top">
+<br/><br/>
 
 ### Development Tools
 
-`Git`  
-`GitHub`  
-`VS Code`
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Engineering Focus
+# Engineering Focus
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="25%" align="center">
 
 ### Software Engineering
 
-Clean architecture  
-Maintainable code  
-Problem solving
+Architecture  
+Clean Code  
+Problem Solving  
+Debugging
 
 </td>
 
@@ -309,9 +355,10 @@ Problem solving
 
 ### Artificial Intelligence
 
-AI applications  
-Model integration  
-Intelligent systems
+AI Applications  
+Model Integration  
+Automation  
+APIs
 
 </td>
 
@@ -319,9 +366,10 @@ Intelligent systems
 
 ### Computer Vision
 
-Detection  
+Object Detection  
 Tracking  
-Image processing
+Image Processing  
+Real-Time Systems
 
 </td>
 
@@ -332,147 +380,48 @@ Image processing
 Frontend  
 Backend  
 Databases  
-APIs
+REST APIs
 
 </td>
+
 </tr>
 </table>
 
----
-
-## Development Approach
-
-<table>
-<tr>
-<td align="center" width="16%">
-
-**01**
-
-Understand
-
-</td>
-
-<td align="center" width="16%">
-
-**02**
-
-Plan
-
-</td>
-
-<td align="center" width="16%">
-
-**03**
-
-Design
-
-</td>
-
-<td align="center" width="16%">
-
-**04**
-
-Build
-
-</td>
-
-<td align="center" width="16%">
-
-**05**
-
-Test
-
-</td>
-
-<td align="center" width="16%">
-
-**06**
-
-Deploy
-
-</td>
-</tr>
-</table>
-
-I focus on understanding the problem first, designing a practical solution, building the system in a maintainable way, testing it carefully, and improving it based on real requirements.
+</div>
 
 ---
 
-## Currently Learning
-
-I am continuously improving my skills in:
-
-- AI application development
-- LLM-powered applications
-- AI and API integration
-- Computer Vision
-- Automation
-- Advanced full-stack architecture
-- Scalable backend systems
-- Deployment and DevOps
-
----
-
-## Long-Term Direction
-
-I am working toward becoming a stronger AI Software Engineer by combining:
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-Software Engineering
-
-</td>
-
-<td align="center" width="20%">
-
-Artificial Intelligence
-
-</td>
-
-<td align="center" width="20%">
-
-Computer Vision
-
-</td>
-
-<td align="center" width="20%">
-
-Automation
-
-</td>
-
-<td align="center" width="20%">
-
-Product Development
-
-</td>
-</tr>
-</table>
-
-My goal is to build intelligent software that goes beyond demos and tutorials and becomes useful, reliable, and maintainable real-world products.
-
----
-
-## Let's Connect
-
-**GitHub**
-
-https://github.com/abdulrehman572
-
-**LinkedIn**
-
-https://www.linkedin.com/in/abdul-rehman-baghoor-5ba586422/
-
-**Email**
-
-abdulrehmanprog@gmail.com
-
----
+# Development Workflow
 
 <div align="center">
 
-### Building. Learning. Improving. Shipping.
-
-</div>
+```text
+┌──────────────────┐
+│ Understand       │
+│ The Problem      │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ Requirements     │
+│ & Planning       │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ Architecture     │
+│ & Design         │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ Development      │
+│ & Integration    │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ Testing &        │
+│ Debugging        │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ Deployment       │
+│ & Improvement    │
+└──────────────────┘
